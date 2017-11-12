@@ -1,7 +1,9 @@
+/*!
+ * Overlap slider v1.0.0 -Alpha
+ * Copyright 2017 Mishal Rai
+ * Licensed user GPL ( General Public Licence )
+ */
 
-/* ----------------------------------------------------------
- * HOME PAGE SLIDER
- * ---------------------------------------------------------- */
 +(function() {
   var Slider = (function() {
       function Slider(config) {
