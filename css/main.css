@@ -1,11 +1,8 @@
-/* HELPERS */
-/* BASIC COLOR */
-/* FONTS */
-/* FONT WEIGHT */
-/* MIXINS */
-/* ---------------------------------------
- * SLIDER SECTION
- * --------------------------------------- */
+/*!
+ * Overlap slider v1.0.0 -Alpha
+ * Copyright 2017 Mishal Rai
+ * Licensed user GPL ( General Public Licence )
+ */
 .slider-wrapper {
   margin: 110px 0 0; }
   .slider-wrapper .mb-title {
